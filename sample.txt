@@ -1,2 +1,3 @@
 This is sample file.
 We will test for tag.
+Tag this file as v1.0
